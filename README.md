@@ -36,6 +36,6 @@ The program is written in JavaScript using Node.js. It reads the `users.json` fi
 
 Have a great day ♡
 
-![6f29c5c25c892ec015b5fa6411ab0c4e](https://github.com/user-attachments/assets/91225884-bfc2-4a1b-9a9e-27ae471651c4)
 
+![Cute Cat](https://github.com/user-attachments/assets/3e1c626b-fecd-45b1-93ca-a704dc2722a5)
 
