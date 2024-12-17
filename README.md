@@ -28,6 +28,8 @@ The program is written in JavaScript using Node.js. It reads the `users.json` fi
 
 > The `Jsons` and `Texts` folders are inside the "userDataProcessing" folder.
 
+> Don't forget to use `npm install`
+
 
 ### מגישות:
 - לורן חצרוני כיתה 48/5
