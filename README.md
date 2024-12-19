@@ -28,7 +28,14 @@ The program is written in JavaScript using Node.js. It reads the `users.json` fi
 
 > The `Jsons` and `Texts` folders are inside the "userDataProcessing" folder.
 
-> Don't forget to use `npm install`
+### How to Run:
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install Node.js if not already installed.
+(using `npm install`)
+4. Run the following command:
+   ```bash
+   node app.js
 
 
 ### מגישות:
