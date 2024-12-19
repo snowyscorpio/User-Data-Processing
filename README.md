@@ -38,9 +38,6 @@ The program is written in JavaScript using Node.js. It reads the `users.json` fi
    node app.js
 
 
-### מגישות:
-- לורן חצרוני כיתה 48/5
-- סוג'וד שאני כיתה 48/5
 
 
 Have a great day ♡
